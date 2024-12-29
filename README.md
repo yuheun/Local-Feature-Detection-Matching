@@ -15,9 +15,16 @@ All work was done in Colab.
 
 ## ORB
 ### key points detection
-![image](https://github.com/user-attachments/assets/bdcd820d-fe9f-4bf6-8797-1d28d01fc1d3)
-![image](https://github.com/user-attachments/assets/79434326-b5f6-44d5-9cc4-a1536d0a83b7)
+<img width="824" alt="orb" src="https://github.com/user-attachments/assets/09e16676-d957-4656-8643-54ab44d13a91" />
 
+This is the result image when each flag value is given differently.
+The values ​​of each flag are as follows:
+  DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS, DRAW_MATCHES_FLAGS_DEFAULT
+  DRAW_MATCHES_FLAGS_NOT_DRAW_SINGLE_POINTS, 0
+
+(For the image given flag=0, I gave the color (0, 255, 0))
+
+---
 ![image](https://github.com/user-attachments/assets/07ec4a68-c0b1-4601-a275-253d7c4a2fd1)
 
 
